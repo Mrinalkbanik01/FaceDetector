@@ -11,3 +11,4 @@ The project produces real-time bouding boxes around your faces.It uses the conce
 - Albumentations
 
 ## Sofware used for Annotation : labelme
+[LabelME Software](https://github.com/labelmeai/labelme)
